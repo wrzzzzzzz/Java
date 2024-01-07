@@ -1,7 +1,3 @@
-/*
-	需求：
-*/
-
 class Array2Sum {
 	public static void main(String[] args) {
 		int[][] arr = {{22,66,44},{77,33,88},{25,45,65},{11,66,99}};
@@ -11,6 +7,6 @@ class Array2Sum {
 				sum +=arr[i][j];
 			}
 		}
-		System.out.println("总数为：" +sum);
+		System.out.println("锟斤拷锟斤拷为锟斤拷" +sum);
 	}
 }
